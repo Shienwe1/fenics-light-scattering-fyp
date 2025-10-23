@@ -2,7 +2,7 @@
 
 This repository contains the code for a Final Year Project: **"Development of a finite element solver for light scattering simulation."**
 
-This project uses the Finite Element Method (FEM) to solve time-harmonic electromagnetic scattering problems, built entirely on the [FEniCSx](https://fenicsproject.org/) platform (DOLFINx).
+This project uses the Finite Element Method (FEM) to solve time domain electromagnetic scattering problems, built entirely on the [FEniCSx](https://fenicsproject.org/) platform (DOLFINx).
 
 ## Core Problem
 Simulating light scattering involves solving Maxwell's equations in an open, unbounded domain.
